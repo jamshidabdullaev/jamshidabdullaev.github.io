@@ -1,0 +1,21 @@
+p{
+
+	font-family:  Algerian;
+	font-size:12pt;
+	text-align:left;
+	color:#404040;
+}
+
+#header{
+	
+	text-align:center;
+	font-family: Algerian;
+	font-size:25pt;
+	color:#404040;
+}
+#picture1{
+	display: inline-block;
+	float:right;
+	margin-right: 10px;
+	width: 40%;
+	height: 85%;                                                    
